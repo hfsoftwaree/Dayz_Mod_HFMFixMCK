@@ -2,6 +2,8 @@
 
 Mod de **scripts (Enforce Script)** para **DayZ Standalone** que gera **logs detalhados de veículos** integrados ao **MuchCarKey (MCK)**. Ele foi desenvolvido para uso com o **HF Manager**, sistema de gerenciamento de servidores DayZ desenvolvido em **Delphi**, que consome esses logs.
 
+https://github.com/hfsoftwaree/HFManagerUpdate
+
 ---
 
 ## 📦 Dependência
